@@ -14,4 +14,5 @@ From the onset, I faced a massive technical challenge: pursing the course on a n
 Installation of Anaconda, PG Admin and Tableau Public all presented a challenge due to Windows 7 being dropped from the latest installation packages. Google searching and Youtube vides for last working Windows 7 installation package for the aforementioned programs solved many of the issues. 
 
 A second personal challenge encountered was a choice to pursue an employment promotion which constituted 5 weeks of intensive training. This setback was recouped by a week of earned vacation to rapidly catch up. Well worth it!
+
 ![](whut.png)
