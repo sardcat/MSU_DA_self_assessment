@@ -9,7 +9,7 @@ For the class final project, I took somewhat of an initial backseat to the 3 NBA
 Outside this constructive Python coding pairing, I checked the R code that was being written to test for execution on my system.
 
 ### Personal Challenges
-From the onset, I faced a massive technical challenge: pursing the course on a nearly decade old laptop that was under recommended specs, a Windows 7 laptop with half the recommended RAM coupled with the desire to utilize long paid-for MS Office 10. This choice resulted in the version of MS Office I utilized not having a convenient Box-and-whiskers plot feature.
+From the onset, I faced a massive technical challenge: pursing the course on a nearly decade old laptop that was under recommended specs; a Windows 7 laptop with half the recommended RAM coupled with the desire to utilize a long paid-for MS Office 10 installation. This choice immediatly resulted in the version of MS Office I utilized not having a convenient Box-and-whiskers plot feature.
 
 Installation of Anaconda, PG Admin and Tableau Public all presented a challenge due to Windows 7 being dropped from the latest installation packages. Google searching and Youtube vides for last working Windows 7 installation package for the aforementioned programs solved many of the issues. 
 
